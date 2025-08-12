@@ -1,7 +1,0 @@
-{
-  "inventory": [
-    { "hotel_id": "DP-IMPERIAL", "date": "2025-08-20", "room_type": "DLX", "stock": 5, "price": 220, "currency": "EUR" },
-    { "hotel_id": "DP-IMPERIAL", "date": "2025-08-21", "room_type": "DLX", "stock": 5, "price": 220, "currency": "EUR" },
-    { "hotel_id": "DP-IMPERIAL", "date": "2025-08-22", "room_type": "DLX", "stock": 2, "price": 215, "currency": "EUR" }
-  ]
-}
